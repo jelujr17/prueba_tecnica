@@ -44,7 +44,7 @@ class HeaderPersonalizado extends StatelessWidget {
             backgroundColor: Colors.white.withOpacity(0.2),
             child: CircleAvatar(
               radius: 25,
-              backgroundImage: NetworkImage('https://randomuser.me/api/portraits/men/32.jpg'),
+              backgroundImage: NetworkImage('https://robohash.org/Luis?set=set4&size=200x200'),
             ),
           ),
           SizedBox(width: 16),
