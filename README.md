@@ -496,6 +496,27 @@ Para cualquier duda o problema con la instalación o el proyecto, puedes:
 
 ---
 
+
+## 📸 Capturas de Pantalla
+
+A continuación se muestran algunas capturas de la interfaz principal de la aplicación:
+
+### Agenda Diaria (Vista general)
+
+![image](https://github.com/user-attachments/assets/28dd6d37-f096-46a5-9450-123ce0451f16)
+
+
+En esta pantalla el usuario puede visualizar la agenda diaria de todos los niños, filtrando por tipo de actividad (Alimentación, Actividades, Siestas, Higiene) y seleccionando cada niño desde el menú lateral.
+
+### Agenda Diaria (Filtrado por niño)
+
+![image](https://github.com/user-attachments/assets/1c7f6916-6ab4-4940-8625-53b2a1e9a3e5)
+
+
+Filtrando por un niño específico, se muestran únicamente los eventos correspondientes a ese niño, organizados por categorías y horarios.
+
+---
+
 ## 📝 Licencia
 
 Este proyecto es una prueba técnica y está disponible para fines educativos y de evaluación.
